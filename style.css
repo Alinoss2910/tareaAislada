@@ -1,0 +1,8 @@
+a {
+    padding: 10px;
+    border: 1px blue;
+    text-decoration: none;
+    background-color: lightblue;
+    box-shadow: 5px 5px 8px darkblue;
+    font-weight: bold;
+}
